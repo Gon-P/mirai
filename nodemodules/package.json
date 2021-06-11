@@ -1,0 +1,26 @@
+{
+  "name": "nodemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catalizcs",
+  "license": "ISC",
+  "dependencies": {
+    "bitly": "^7.1.2",
+    "fast-speedtest-api": "^0.3.2",
+    "morsify": "^2.4.0",
+    "node-superfetch": "^0.2.3",
+    "pidusage": "^2.0.21",
+    "qrcode": "^1.4.4",
+    "sagiri": "^3.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^1.0.0",
+    "systeminformation": "^5.7.6",
+    "vm2": "^3.9.3",
+    "wikijs": "^6.2.1",
+    "ytdl-core": "^4.8.2"
+  }
+}
